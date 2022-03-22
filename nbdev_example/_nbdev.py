@@ -2,9 +2,12 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"Card": "00_card.ipynb"}
+index = {"Card": "00_card.ipynb",
+         "Deck": "00_deck.ipynb",
+         "helpfunction1": "00_deck.ipynb"}
 
-modules = ["card.py"]
+modules = ["card.py",
+           "deck.py"]
 
 doc_url = "https://junteken.github.io/nbdev_example/"
 

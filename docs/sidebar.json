@@ -2,6 +2,7 @@
   "nbdev_example": {
     "Overview": "/",
     "Card": "card.html",
+    "Deck": "deck.html",
     "Title": "Untitled.html"
   }
 }

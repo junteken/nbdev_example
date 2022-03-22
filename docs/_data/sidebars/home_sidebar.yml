@@ -13,6 +13,9 @@ entries:
       title: Card
       url: card.html
     - output: web,pdf
+      title: Deck
+      url: deck.html
+    - output: web,pdf
       title: Title
       url: Untitled.html
     output: web
